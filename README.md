@@ -2,3 +2,4 @@ These files are old pre-oblastic AXR files, many of them still have the old name
 Please do not:
 - Violate the copyright
 - Use them to forge fake documents
+- Use them as modern sources of infomation
